@@ -3,7 +3,7 @@ SCM FIN S/4 HANA,Cloud,Business Applications,FALSE,Core S/4 HANA System
 S15 S/4 HANA,On-Premise,Business Applications,FALSE,IFRS15 Engine
 EWM,Cloud,Business Applications,FALSE,Enterprise Warehouse Management
 CRM,Cloud,Business Applications,FALSE,EIC / FIC
-GRC,Cloud,Security & Compliance,FALSE,Tool for Governance and Roles control
+GRC,Cloud,Foundation services,FALSE,Tool for Governance and Roles control
 Ariba,Cloud,Business Applications,FALSE,Procurement Engine
 Ab Initio,On-Premise,Foundation services,FALSE,Middleware used specifically for IFRS
 SAP GUI,User Workstation,Presentation Layer,FALSE,Thick client from SAP
