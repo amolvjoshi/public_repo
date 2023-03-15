@@ -1,0 +1,15 @@
+name,ring,quadrant,isNew,Description
+SCM FIN S/4 HANA,Cloud,Business Applications,FALSE,Core S/4 HANA System
+S15 S/4 HANA,On-Premise,Business Applications,FALSE,IFRS15 Engine
+EWM,Cloud,Business Applications,FALSE,Enterprise Warehouse Management
+CRM,Cloud,Business Applications,FALSE,EIC / FIC
+GRC,Cloud,Security & Compliance,FALSE,Tool for Governance and Roles control
+Ariba,Cloud,Business Applications,FALSE,Procurement Engine
+Ab Initio,On-Premise,Foundation services,FALSE,Middleware used specifically for IFRS
+SAP GUI,User Workstation,Presentation Layer,FALSE,Thick client from SAP
+Lumira,User Workstation,"Data , Analytics & BI",FALSE,Lumira
+BW4 HANA,Cloud,"Data , Analytics & BI",FALSE,BW 4
+BW FIN/SCM,On-Premise,"Data , Analytics & BI",FALSE,BW for S/4
+Celonis,On-Premise,"Data , Analytics & BI",FALSE,Process Mining tool
+Office 365,Cloud,Presentation Layer,FALSE,Corporate Foundation service
+BW Terminals,On-Premise,"Data , Analytics & BI",FALSE,BW for Terminals
